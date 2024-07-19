@@ -6,3 +6,16 @@ This project aims to develop a neural network solution for the automated detecti
 ## Repository Structure
 - `Neural Network Solution-Automated Detection of Pneumonia from Chest X-Ray Images Using Deep Learning.ipynb`: Jupyter Notebook containing the complete code for data preprocessing, model building, training, and evaluation.
 
+## Prerequisites
+- Python 3.x
+- Jupyter Notebook
+- TensorFlow
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
+
+Install the required packages using:
+
+```bash
+pip install -r requirements.txt
