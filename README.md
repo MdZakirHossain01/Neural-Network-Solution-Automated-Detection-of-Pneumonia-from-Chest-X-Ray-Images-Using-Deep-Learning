@@ -19,3 +19,10 @@ Install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+
+## Dataset
+The dataset used in this project is publicly available at [Kaggle Pneumonia Dataset](https://www.kaggle.com/pxaydin/chest-xray-pneumonia).
+
+## References
+- [Chest X-ray Images for Pneumonia Detection](https://arxiv.org/abs/1505.03540)
+
